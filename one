@@ -1,0 +1,1 @@
+sh <(curl -q https://platform.activestate.com/dl/cli/_pdli01/install.sh) -c'state activate --default SethHannigan/Python-3.9.13-Linux-CentOS'
